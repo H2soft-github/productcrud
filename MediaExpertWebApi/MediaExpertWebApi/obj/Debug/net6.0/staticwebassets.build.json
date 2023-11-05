@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dOV83g7RpuZYoWWviX3YzAigJj1Tq1MGo2k9JgrMDx0=",
+  "Source": "MediaExpertWebApi",
+  "BasePath": "_content/MediaExpertWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
